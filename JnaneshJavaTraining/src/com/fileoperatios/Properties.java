@@ -13,5 +13,6 @@ public class Properties {
 		Properties prop = new Properties();
 		FileInputStream fileInput = new FileInputStream(sPath);
 
+
 	}
 }
